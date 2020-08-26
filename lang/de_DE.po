@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.6.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-08-17 16:40+0000\n"
-"PO-Revision-Date: 2020-08-17 16:44+0000\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2020-08-26 13:44+0200\n"
+"Last-Translator: Berthold Metz <mail@berthold-metz.de>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Loco https://localise.biz/\n"
+"X-Generator: Poedit 2.3\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
@@ -1876,11 +1876,11 @@ msgstr ""
 
 #: includes/class-avia-custom-pages.php:426
 msgid ""
-"<span style=\"color: #ff33ff; font-weight: bold;\">Maintenance Mode "
-"Enabled</span>"
+"<span style=\"color: #ff33ff; font-weight: bold;\">Maintenance Mode Enabled</"
+"span>"
 msgstr ""
-"<span style=\"color: #ff33ff; font-weight: bold;\">Wartungsmodus "
-"aktiviert</span>"
+"<span style=\"color: #ff33ff; font-weight: bold;\">Wartungsmodus aktiviert</"
+"span>"
 
 #: includes/class-avia-custom-pages.php:653
 msgid ""
@@ -2098,8 +2098,8 @@ msgstr "In der Domain wurden keine erreichbaren Cookies gefunden"
 #: includes/helper-privacy.php:401
 msgid ""
 "We need a lightbox to show the modal popup. Please enable the built in "
-"lightbox in Theme Options Tab or include your own modal window plugin."
-"\\n\\nYou need to connect this plugin in JavaScript with callback wrapper "
+"lightbox in Theme Options Tab or include your own modal window plugin.\\n"
+"\\nYou need to connect this plugin in JavaScript with callback wrapper "
 "functions - see avia_cookie_consent_modal_callback in file enfold\\js\\avia-"
 "snippet-cookieconsent.js "
 msgstr ""
@@ -2109,8 +2109,8 @@ msgid ""
 "I agree to the terms and conditions laid out in the [av_privacy_link]Privacy "
 "Policy[/av_privacy_link]"
 msgstr ""
-"Ich stimme den Bedingungen zu, die in der [av_privacy_link]"
-"Datenschutzrichtlinie[/av_privacy_link] dargelegt sind"
+"Ich stimme den Bedingungen zu, die in der "
+"[av_privacy_link]Datenschutzrichtlinie[/av_privacy_link] dargelegt sind"
 
 #: includes/helper-privacy.php:518 includes/helper-privacy.php:527
 #: includes/helper-privacy.php:536
@@ -2139,9 +2139,9 @@ msgid ""
 "Hide cookie message bar on following page loads and refuse cookies if not "
 "allowed - aviaPrivacyEssentialCookiesEnabled must be set"
 msgstr ""
-"Bei weiteren Seitenaufrufen die Cookie-Bar ausblenden und Cookies verweigern,"
-" die nicht erlaubt wurden - aviaPrivacyEssentialCookiesEnabled muss gesetzt "
-"sein"
+"Bei weiteren Seitenaufrufen die Cookie-Bar ausblenden und Cookies "
+"verweigern, die nicht erlaubt wurden - aviaPrivacyEssentialCookiesEnabled "
+"muss gesetzt sein"
 
 #: includes/helper-privacy.php:586
 msgid ""
@@ -2329,11 +2329,11 @@ msgstr "Wie wir Cookies verwenden"
 msgid ""
 "We may request cookies to be set on your device. We use cookies to let us "
 "know when you visit our websites, how you interact with us, to enrich your "
-"user experience, and to customize your relationship with our website. <br>"
-"<br>Click on the different category headings to find out more. You can also "
-"change some of your preferences. Note that blocking some types of cookies "
-"may impact your experience on our websites and the services we are able to "
-"offer."
+"user experience, and to customize your relationship with our website. "
+"<br><br>Click on the different category headings to find out more. You can "
+"also change some of your preferences. Note that blocking some types of "
+"cookies may impact your experience on our websites and the services we are "
+"able to offer."
 msgstr ""
 "Wir können Cookies anfordern, die auf Ihrem Gerät eingestellt werden. Wir "
 "verwenden Cookies, um uns mitzuteilen, wenn Sie unsere Websites besuchen, "
@@ -2676,7 +2676,7 @@ msgstr "Das könnte Dich auch interessieren"
 
 #: config-events-calendar/views/default-template.php:13
 msgid "Calendar of Events"
-msgstr "Kalender mit Ereignissem"
+msgstr "Termine"
 
 #: config-events-calendar/views/single-event-no-mobile.php:23
 #: config-events-calendar/views/single-event.php:21
@@ -5299,8 +5299,6 @@ msgstr "g a"
 
 #: framework/php/class-breadcrumb.php:451
 #: framework/php/class-breadcrumb.php:458
-#: framework/php/class-breadcrumb.php:458
-#: framework/php/class-breadcrumb.php:464
 #: framework/php/class-breadcrumb.php:464
 #: framework/php/class-breadcrumb.php:470
 #: framework/php/function-set-avia-frontend.php:1263
@@ -5501,8 +5499,8 @@ msgstr "Facebook-Seitenwidget &quot;Teilen / Gefällt mir&quot; direkt anzeigen"
 #: framework/php/class-framework-widgets.php:535
 msgid "User must accept to show facebook page widget &quot;Share/Like&quot;"
 msgstr ""
-"Der Nutzer muss zustimmen, um das Facebook-Seiten-Widget &quot;"
-"Teilen/Gefällt mir&quot; anzuzeigen"
+"Der Nutzer muss zustimmen, um das Facebook-Seiten-Widget &quot;Teilen/"
+"Gefällt mir&quot; anzuzeigen"
 
 #: framework/php/class-framework-widgets.php:536
 msgid "Only open the facebook page - no data are sent"
@@ -6171,13 +6169,13 @@ msgstr ""
 
 #: framework/php/class-grecaptcha.php:195
 msgid ""
-"This site is protected by reCAPTCHA and the Google <a href=\"https:"
-"//policies.google.com/privacy\">Privacy Policy</a> and <a href=\"https:"
-"//policies.google.com/terms\">Terms of Service</a> apply."
+"This site is protected by reCAPTCHA and the Google <a href=\"https://"
+"policies.google.com/privacy\">Privacy Policy</a> and <a href=\"https://"
+"policies.google.com/terms\">Terms of Service</a> apply."
 msgstr ""
-"Diese Seite wird durch reCAPTCHA geschützt und es gelten die Google <a "
-"href=\"https://policies.google.com/privacy\">Datenschutzerklärungen</a> und "
-"<a href=\"https://policies.google.com/terms\">Nutzungsbedingungen</a>"
+"Diese Seite wird durch reCAPTCHA geschützt und es gelten die Google <a href="
+"\"https://policies.google.com/privacy\">Datenschutzerklärungen</a> und <a "
+"href=\"https://policies.google.com/terms\">Nutzungsbedingungen</a>"
 
 #: framework/php/class-grecaptcha.php:237
 msgid ""
@@ -6244,8 +6242,8 @@ msgstr ""
 
 #: framework/php/class-grecaptcha.php:290
 msgid ""
-"A network timeout problem occurred. Could be caused by an invalid V3 sitekey."
-" Please recheck the key and try again."
+"A network timeout problem occurred. Could be caused by an invalid V3 "
+"sitekey. Please recheck the key and try again."
 msgstr ""
 
 #: framework/php/class-grecaptcha.php:572
@@ -7302,9 +7300,9 @@ msgid ""
 "We were not able to detect an active image optimization plugin. It is "
 "recommended to use one to speed up your site. Here are a few suggestions:"
 msgstr ""
-"Wir konnten kein aktives Bildoptimierungs-Plugin erkennen. Es wird empfohlen,"
-" eines zu verwenden, um Ihre Site zu beschleunigen. Hier sind ein paar "
-"Vorschläge:"
+"Wir konnten kein aktives Bildoptimierungs-Plugin erkennen. Es wird "
+"empfohlen, eines zu verwenden, um Ihre Site zu beschleunigen. Hier sind ein "
+"paar Vorschläge:"
 
 #: includes/admin/register-admin-options.php:533
 msgid ""
@@ -7355,8 +7353,8 @@ msgstr ""
 msgid ""
 "We were able to detect a caching plugin. Great! Nothing left to do here ;)"
 msgstr ""
-"Wir konnten ein Caching-Plugin erkennen. Großartig! Nichts mehr zu tun hier ;"
-")"
+"Wir konnten ein Caching-Plugin erkennen. Großartig! Nichts mehr zu tun "
+"hier ;)"
 
 #: includes/admin/register-admin-options.php:597
 msgid ""
@@ -7418,8 +7416,8 @@ msgstr "Erweiterten Layout Builder auch Admins sperren?"
 #: includes/admin/register-admin-options.php:720
 msgid ""
 "This will lock the elements for all administrators including you, to prevent "
-"accidental changing of a page layout. In order to change a page layout later,"
-" you will need to uncheck this option first"
+"accidental changing of a page layout. In order to change a page layout "
+"later, you will need to uncheck this option first"
 msgstr ""
 "Dies sperrt die Elemente für alle Administratoren, einschließlich Sie, um "
 "versehentliches Ändern eines Seitenlayouts zu verhindern. Um ein "
@@ -7805,21 +7803,21 @@ msgstr ""
 #: includes/admin/register-admin-options.php:1300
 #, php-format
 msgid ""
-"Info about <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">"
-"Google reCAPTCHA</a>. You need to create <a href=\"%2$s\" target=\"_blank\" "
-"rel=\"noopener noreferrer\">API keys</a> for your site. Also check our <a "
-"href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">documentation."
-"</a>"
+"Info about <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer"
+"\">Google reCAPTCHA</a>. You need to create <a href=\"%2$s\" target=\"_blank"
+"\" rel=\"noopener noreferrer\">API keys</a> for your site. Also check our <a "
+"href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">documentation.</"
+"a>"
 msgstr ""
 
 #: includes/admin/register-admin-options.php:1301
 #, php-format
 msgid ""
-"Please keep in mind that Version 3 needs to <a href=\"%1$s\" "
-"target=\"_blank\" rel=\"noopener noreferrer\">monitor user behaviour and "
-"collects user data</a>. In case the score does not recognize a human Version "
-"2 checkbox will be used additionally for verification. Therefore you must "
-"also register V2 keys."
+"Please keep in mind that Version 3 needs to <a href=\"%1$s\" target=\"_blank"
+"\" rel=\"noopener noreferrer\">monitor user behaviour and collects user "
+"data</a>. In case the score does not recognize a human Version 2 checkbox "
+"will be used additionally for verification. Therefore you must also register "
+"V2 keys."
 msgstr ""
 
 #: includes/admin/register-admin-options.php:1302
@@ -8188,10 +8186,10 @@ msgstr ""
 
 #: includes/admin/register-admin-options.php:1763
 msgid ""
-"Make sure you comply with the <a target='_blank' href='http://ec.europa."
-"eu/ipg/basics/legal/cookies/index_en.htm' rel='noopener noreferrer'>EU "
-"cookie law</a> by informing users that your site uses cookies. This can be "
-"done with a small notification bar or modal popup window"
+"Make sure you comply with the <a target='_blank' href='http://ec.europa.eu/"
+"ipg/basics/legal/cookies/index_en.htm' rel='noopener noreferrer'>EU cookie "
+"law</a> by informing users that your site uses cookies. This can be done "
+"with a small notification bar or modal popup window"
 msgstr ""
 
 #: includes/admin/register-admin-options.php:1765
@@ -8678,8 +8676,8 @@ msgstr ""
 msgid ""
 "Cookies must be in the same domain and you need to specify the name and the "
 "path (case sensitive) that is shown in the developer tools of your browser. "
-"Please see <a href=\"https://kriesi.at/documentation/enfold/privacy-"
-"cookies/#additional-custom-cookies\">Additional Custom Cookies</a> on our "
+"Please see <a href=\"https://kriesi.at/documentation/enfold/privacy-cookies/"
+"#additional-custom-cookies\">Additional Custom Cookies</a> on our "
 "documentation."
 msgstr ""
 
@@ -8695,11 +8693,11 @@ msgstr ""
 
 #: includes/admin/register-admin-options.php:2359
 msgid ""
-"[av_privacy_custom_cookie cookie_name=\"\"]Your text "
-"here[/av_privacy_custom_cookie] "
+"[av_privacy_custom_cookie cookie_name=\"\"]Your text here[/"
+"av_privacy_custom_cookie] "
 msgstr ""
-"[av_privacy_custom_cookie cookie_name=\"\"]Dein Text "
-"hier[/av_privacy_custom_cookie] "
+"[av_privacy_custom_cookie cookie_name=\"\"]Dein Text hier[/"
+"av_privacy_custom_cookie] "
 
 #: includes/admin/register-admin-options.php:2362
 msgid "Additional Custom Cookies"
@@ -9151,8 +9149,9 @@ msgstr ""
 #: includes/admin/register-admin-options.php:3017
 msgid ""
 "We have detected that you are using a Child Theme. That's Great!. If you "
-"want to, we can import the settings of your Parent theme to your Child theme."
-" Please be aware that this will overwrite your current child theme settings."
+"want to, we can import the settings of your Parent theme to your Child "
+"theme. Please be aware that this will overwrite your current child theme "
+"settings."
 msgstr ""
 "Wir haben festgestellt, dass du ein Child-Theme verwendest. Das ist "
 "großartig! Wenn du möchtest, können wir die Einstellungen deines "
@@ -9176,10 +9175,9 @@ msgstr "Wähle Theme-Optionen für das Importieren"
 #: includes/admin/register-admin-options.php:3036
 msgid ""
 "Check if you do not want to import all settings from an exported theme "
-"settings file. Please read the <a href=\"https://kriesi."
-"at/documentation/enfold/backup-theme-settings\" target=\"_blank\" "
-"rel=\"noopener noreferrer\">documentation</a> for more information how to "
-"customize import."
+"settings file. Please read the <a href=\"https://kriesi.at/documentation/"
+"enfold/backup-theme-settings\" target=\"_blank\" rel=\"noopener noreferrer"
+"\">documentation</a> for more information how to customize import."
 msgstr ""
 
 #: includes/admin/register-admin-options.php:3044
@@ -9189,8 +9187,8 @@ msgstr ""
 
 #: includes/admin/register-admin-options.php:3045
 msgid ""
-"Check if you want to keep your added CSS stylings in &quot;General Styling ->"
-" Quick CSS&quot;. In case you select single tabs to import below your Quick "
+"Check if you want to keep your added CSS stylings in &quot;General Styling -"
+"> Quick CSS&quot;. In case you select single tabs to import below your Quick "
 "CSS settings will be kept by default except you select the tab containing "
 "the Quick CSS field. In this case you must check here to keep them."
 msgstr ""
@@ -9235,8 +9233,8 @@ msgstr ""
 
 #: includes/admin/register-admin-options.php:3085
 msgid ""
-"Select if you want to block reset of theme options and hide the reset button."
-" You must select activate button before you can reset theme options."
+"Select if you want to block reset of theme options and hide the reset "
+"button. You must select activate button before you can reset theme options."
 msgstr ""
 
 #: includes/admin/register-admin-options.php:3091
@@ -9253,16 +9251,16 @@ msgstr ""
 
 #: includes/admin/register-admin-options.php:3107
 msgid ""
-"Check if you do not want to reset all options. Please read the <a "
-"href=\"https://kriesi.at/documentation/enfold/backup-theme-settings\" "
-"target=\"_blank\" rel=\"noopener noreferrer\">documentation</a> for more "
+"Check if you do not want to reset all options. Please read the <a href="
+"\"https://kriesi.at/documentation/enfold/backup-theme-settings\" target="
+"\"_blank\" rel=\"noopener noreferrer\">documentation</a> for more "
 "information how to customize resetting theme options."
 msgstr ""
 
 #: includes/admin/register-admin-options.php:3116
 msgid ""
-"Check if you want to keep your added CSS stylings in &quot;General Styling ->"
-" Quick CSS&quot;. In case you select single tabs to reset below your Quick "
+"Check if you want to keep your added CSS stylings in &quot;General Styling -"
+"> Quick CSS&quot;. In case you select single tabs to reset below your Quick "
 "CSS settings will be kept by default except you select the tab containing "
 "the Quick CSS field. In this case you must check here to keep them."
 msgstr ""
@@ -9359,8 +9357,8 @@ msgstr "Manager für Benutzerdefinierte Schriftarten"
 
 #: includes/admin/register-admin-options.php:3200
 msgid ""
-"You can upload your custom Font zip files. Intended for <a href='https:"
-"//fonts.google.com/' target='_blank' rel='noopener noreferrer'>Google Webkit "
+"You can upload your custom Font zip files. Intended for <a href='https://"
+"fonts.google.com/' target='_blank' rel='noopener noreferrer'>Google Webkit "
 "Fonts</a>."
 msgstr ""
 "Du kannst deine benutzerdefinierte Schriftarte als zip-Datei hochladen. "
@@ -10338,9 +10336,9 @@ msgid ""
 "Choose if and how you want to display the Title and Breadcrumb of your page. "
 "This option can be overwritten when writing/editing a page"
 msgstr ""
-"Wähle, ob und wie du den Titel und Breadcrumb deiner Seite anzeigen möchtest."
-" Diese Option kann beim Schreiben / Bearbeiten einer Seite überschrieben "
-"werden"
+"Wähle, ob und wie du den Titel und Breadcrumb deiner Seite anzeigen "
+"möchtest. Diese Option kann beim Schreiben / Bearbeiten einer Seite "
+"überschrieben werden"
 
 #: includes/admin/register-admin-options.php:4491
 #: config-templatebuilder/avia-template-builder/config/meta.php:280
@@ -10775,9 +10773,9 @@ msgstr "Navigation Einzelner Beitrag"
 
 #: includes/admin/register-admin-options.php:4864
 msgid ""
-"Select to disable or enable the post navigation that links to the "
-"next/previous post on single entries. Setting is also used for portfolio. "
-"Use filter avf_post_nav_settings to customize."
+"Select to disable or enable the post navigation that links to the next/"
+"previous post on single entries. Setting is also used for portfolio. Use "
+"filter avf_post_nav_settings to customize."
 msgstr ""
 "Auswählen, um die Beitrags-Navigation, die zu dem nächsten/vorherigen "
 "Beitrag bei einzelnen Beiträgen verlinkt, zu deaktivieren oder aktivieren. "
@@ -12038,8 +12036,8 @@ msgstr ""
 "Wähle, ob nachdem die Liste einmal gespielt wurde gestoppt werden soll oder "
 "erneut von vorne begonnen werden soll. <strong>Seit WP 5.2 stoppt Firefox "
 "nicht, wenn die Javascript-Datei-Zusammenführung und -Komprimierung von "
-"Enfold aktiviert ist. Bei anderen Browsern funktioniert alles wie erwartet."
-"</strong>"
+"Enfold aktiviert ist. Bei anderen Browsern funktioniert alles wie erwartet.</"
+"strong>"
 
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:288
 msgid "Start from beginning again"
@@ -14506,8 +14504,8 @@ msgstr "Karten-Höhe"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:314
 msgid ""
-"You can either define a fixed height in pixel like '300px' or enter a "
-"width/height ratio like 16:9"
+"You can either define a fixed height in pixel like '300px' or enter a width/"
+"height ratio like 16:9"
 msgstr ""
 "Du kannst entweder eine feste Höhe in Pixel wie \"300px\" festlegen oder ein "
 "Breiten/Höhe-Verhältnis ein wie 16:9 eingeben"
@@ -15387,8 +15385,8 @@ msgid ""
 "'200'"
 msgstr ""
 "Wie viel Leerraum brauchen Sie? Geben Sie einen Pixelwert ein. Positiver "
-"Wert erhöht den Leerraum, negativer Wert wird es reduzieren. Z.B.: '50', '-"
-"25', '200'"
+"Wert erhöht den Leerraum, negativer Wert wird es reduzieren. Z.B.: '50', "
+"'-25', '200'"
 
 #: config-templatebuilder/avia-shortcodes/hr/hr.php:222
 msgid "none"
@@ -16538,8 +16536,8 @@ msgstr "Hotspot"
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:31
 #, php-format
 msgid ""
-"Please install the plugin %1$sInstagram Feed%3$s or %2$sInstagram Feed "
-"Pro%3$s to display your Instagram feed."
+"Please install the plugin %1$sInstagram Feed%3$s or %2$sInstagram Feed Pro"
+"%3$s to display your Instagram feed."
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:64
@@ -17394,8 +17392,8 @@ msgid ""
 "You can order the result by various attributes like creation date, title, "
 "author etc"
 msgstr ""
-"Du kannst das Ergebnis mittels verschiedenen Attributen wie Erstellungsdatum,"
-" Titel, Autor, etc. sortieren"
+"Du kannst das Ergebnis mittels verschiedenen Attributen wie "
+"Erstellungsdatum, Titel, Autor, etc. sortieren"
 
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:283
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:281
@@ -18486,8 +18484,8 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:552
 msgid ""
-"Use a default generated link depending on the meta element (if a link exists)"
-", set a custom link or display only as text."
+"Use a default generated link depending on the meta element (if a link "
+"exists), set a custom link or display only as text."
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:978
@@ -19031,8 +19029,8 @@ msgid ""
 "Enter the ID of a container that will hold the search results.<br/>It has to "
 "be on the same page as this search form."
 msgstr ""
-"Gib die ID eines Containers ein, der die Suchergebnisse enthalten soll.<br/>"
-"Er muss auf der gleichen Seite wie dieses Suchformular sein."
+"Gib die ID eines Containers ein, der die Suchergebnisse enthalten soll.<br/"
+">Er muss auf der gleichen Seite wie dieses Suchformular sein."
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:339
 msgid "#my_container"
@@ -19835,8 +19833,8 @@ msgid ""
 "No, dont stretch the image. If the browser window is bigger than the image "
 "simply align it centered"
 msgstr ""
-"Nein, stecke das Bild nicht. Wenn das Browserfenster größer als das Bild ist,"
-" zentriere es"
+"Nein, stecke das Bild nicht. Wenn das Browserfenster größer als das Bild "
+"ist, zentriere es"
 
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:270
 msgid "Slideshow Settings"
@@ -22873,9 +22871,9 @@ msgstr "WooCommerce Seitenleisten-Filter"
 msgid ""
 "Allow to filter products for this element using the 3 WooCommerce sidebar "
 "filters: Filter Products by Price, Rating, Attribute. These filters are only "
-"shown on the selected WooCommerce Shop page (WooCommerce -&gt; Settings -&gt;"
-" Products -&gt; General -&gt; Shop Page) or on product category pages. You "
-"may also use a custom widget area for the sidebar."
+"shown on the selected WooCommerce Shop page (WooCommerce -&gt; Settings -"
+"&gt; Products -&gt; General -&gt; Shop Page) or on product category pages. "
+"You may also use a custom widget area for the sidebar."
 msgstr ""
 "Erlaubt die Produkte für dieses Element mittels den 3 WooCommerce-"
 "Seitenleisten-Filtern zu filtern: Filtere Produkte nach Preis, Bewertung, "
@@ -23528,8 +23526,8 @@ msgstr "Aktualisierung verfügbar!"
 #: framework/php/auto-updates/auto-updates.php:458
 #, php-format
 msgid ""
-"A new Version (%s) of your %s is available! You are using Version %s. <br/>"
-"See what's new in <a href='https://kriesi.at/documentation/enfold/enfold-"
+"A new Version (%s) of your %s is available! You are using Version %s. <br/"
+">See what's new in <a href='https://kriesi.at/documentation/enfold/enfold-"
 "changelog/' target='_blank' rel='noopener noreferrer'>change log</a>. Do you "
 "want to update?<br/><br/>"
 msgstr ""
@@ -23665,8 +23663,9 @@ msgid ""
 "Download Package URL: Envato returned a wrong datastructure. Unable to get "
 "url for updates: "
 msgstr ""
-"Paket-URL herunterladen: Envato hat eine falsche Datenstruktur zurückgegeben."
-" Es ist nicht möglich die URL für Aktualisierungen zu erhalten: "
+"Paket-URL herunterladen: Envato hat eine falsche Datenstruktur "
+"zurückgegeben. Es ist nicht möglich die URL für Aktualisierungen zu "
+"erhalten: "
 
 #: framework/php/auto-updates/class-avia-envato-base-api.php:498
 msgid ""
@@ -23866,9 +23865,9 @@ msgstr ""
 msgid ""
 "<strong>A superflexible and responsive Business Theme by Kriesi</strong> -  "
 "Update notifications available on twitter, facebook and via newsletter: <a "
-"href='http://twitter.com/kriesi'>Follow me on twitter</a> - <a href='http:"
-"//www.facebook.com/pages/Kriesi/333648177216'>Join the Facebook Group</a> - "
-"<a href='http://www.kriesi.at/newsletter'>Subscribe to our Newsletter</a>"
+"href='http://twitter.com/kriesi'>Follow me on twitter</a> - <a href='http://"
+"www.facebook.com/pages/Kriesi/333648177216'>Join the Facebook Group</a> - <a "
+"href='http://www.kriesi.at/newsletter'>Subscribe to our Newsletter</a>"
 msgstr ""
 
 #. URI of the theme
